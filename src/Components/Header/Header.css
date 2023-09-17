@@ -1,0 +1,19 @@
+.header-top {
+    border-bottom: 1px solid var(--gray);
+    background-color: var(--orange);
+} 
+.header-upper {
+    background-color: var(--background);
+}
+
+.header-upper .input-group-text{
+    background-color: var(--text);
+}
+
+.img-top {
+    width: 35px;
+    height: 35px;
+    color: white;
+  
+
+}
