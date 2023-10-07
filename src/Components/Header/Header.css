@@ -14,6 +14,15 @@
     width: 35px;
     height: 35px;
     color: white;
-  
+}
+
+.header-bottom .menu-link a,
+.header-bottom .dropdown button {
+    color: white;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    letter-spacing: 0.3;
+    text-transform: uppercase;
 
 }

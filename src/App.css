@@ -9,6 +9,7 @@
   --gray: #3b4149;
   --text: #e2705c;
   --background: #131921;
+  --color-233f3e: #232f3e;
 }
 
 body {
@@ -25,3 +26,9 @@ a {
   border-color: inherent
 }
 
+.gap-10 {
+  gap: 10px;
+}
+.gap-15 {
+  gap: 15px
+}
